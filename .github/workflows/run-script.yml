@@ -11,4 +11,5 @@ jobs:
     runs-on: dev
     steps:
       - name: Build the Docker file
-        run: sudo bash /home/ubuntu/deploy
+        run:  sudo bash /home/ubuntu/deploy
+
